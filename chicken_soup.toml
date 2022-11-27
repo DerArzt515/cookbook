@@ -1,0 +1,31 @@
+[recipe]
+ingredients = [
+"2-5 lbs chicken",
+"2 onions",
+"4 parsnips",
+"1 rutabaga",
+"1 large turnip",
+"1 bunch celery",
+"8 carrots",
+"6 tbs chopped parsley",
+"6 tbs chopped dill",
+"salt",
+"pepper",
+"1 lbs egg noodle"
+]
+
+steps = [
+"Add 4 quarts of water and the chicken to a stock pot. Bring the mixture to a boil",
+"Add the whole onions, parsnips, rutabaga, turnip, 4 stalks of celery, 4 carrots, parsley, 4 tbs of the dill, salt, and pepper",
+"Simmer the stock for 3 hours",
+"Strain the stock and dispose of the veg, but keep the meat",
+"Store the stock and meat in the fridge for a few hours to overnight",
+"Skim the fato off the top (if you want to) and dispose of it",
+"Bring the stock back to a boil",
+"Shread the meat and add it to the pot",
+"Dice the remaining carrot and celery, then add it to the pot",
+"Let cook until the veg is almost done, then add the noodles",
+"Cook until the noodles are done",
+"Add the remaining dill",
+"Season to taste and serve (possibly over mashed potatoes)"
+]
